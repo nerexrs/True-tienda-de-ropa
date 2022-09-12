@@ -1,0 +1,107 @@
+body {
+    background-color: #2B4865;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A5C9CA;
+    text-align: left;
+    text-indent: 40px;
+    line-height: 1.7;
+    word-spacing: 10px;
+
+    text-shadow: 5px 2px 2px rgba(0, 0, 0, 0.5); 
+} 
+
+.caja {
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #faa;
+    border-left: 6px solid #2C3333;
+    border-right: 6px solid #2C3333;
+    background-color: #395B64;
+    border-radius: 4px;
+    height: 65px;
+    width: 800px;
+    color: #E7F6F2;
+}
+
+.field {
+    border-style: dashed;
+    background-color: #395B64;
+}
+
+#h2 {
+    font-family: cursive;
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A5C9CA;
+    text-align: left;
+    text-indent: 40px;
+    line-height: 1.7;
+    word-spacing: 10px;
+
+    text-shadow: 5px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.texto2 {
+    color: #faa;
+    font-family: cursive;
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A5C9CA;
+    text-align: left;
+    text-indent: 40px;
+    line-height: 1.7;
+    word-spacing: 10px;
+
+    text-shadow: 5px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.texto {
+    font-family: cursive;
+    text-align: justify;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A5C9CA;
+    text-align: left;
+    text-indent: 40px;
+    line-height: 1.7;
+    word-spacing: 10px;
+
+    text-shadow: 5px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.input {
+    display: flex;
+    align-items:flex-start;
+}
+
+a {
+    background-color: #A5C9CA;
+    text-decoration: none;
+    border-style: groove;
+    padding: 10px;
+    border-color: #faa;
+}
+
+button {
+    background-color: #A5C9CA;
+    text-decoration: none;
+    border-style: groove;
+    padding: 10px;
+    border-color: #faa;
+}
