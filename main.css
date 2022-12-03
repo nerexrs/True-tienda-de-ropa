@@ -12,6 +12,7 @@ ul {
     left: 0;
     width: 100%;
     background-color: #393E46;
+    z-index: auto;
 }
 
 li {
